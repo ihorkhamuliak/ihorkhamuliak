@@ -2,7 +2,7 @@
 
 I build AI assistants and automations for small businesses: bots that answer customers 24/7, take bookings, publish content and move data around without a human in the loop.
 
-Based in Poznań, Poland. Freelancing since 2025, working with clients in Ukraine and Poland. CS student at Collegium da Vinci.
+Based in Poznań, Poland. Freelancing since 2026, working with clients in Ukraine and Poland. CS student at Collegium da Vinci.
 
 ## What I do
 
