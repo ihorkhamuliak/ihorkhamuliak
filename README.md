@@ -11,4 +11,4 @@ AI assistants and automations for small businesses. Poznań, PL.
 
 **Stack:** n8n, Claude API, Python, Telethon, Make/Zapier, Google Sheets, Docker
 
-Telegram [@Ihor_0O](https://t.me/Ihor_0O) · [LinkedIn](https://www.linkedin.com/in/ihorkhamuliak) · hamulakigor7@gmail.com · WebSite https://khamuliak-automation.uk
+Telegram [@Ihor_0O](https://t.me/Ihor_0O) · [LinkedIn](https://www.linkedin.com/in/ihorkhamuliak) · hamulakigor7@gmail.com · [WebSite](https://khamuliak-automation.uk)
