@@ -1,6 +1,6 @@
 # Ihor Khamuliak
 
-AI assistants and automations for small businesses. Poznań, PL.
+AI assistants and automations for businesses. Poznań, PL.
 
 ## Projects
 
