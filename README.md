@@ -9,6 +9,6 @@ AI assistants and automations for businesses. Poznań, PL.
 - [meta-ads-to-sheets](https://github.com/ihorkhamuliak/meta-ads-to-sheets): daily Meta Ads spend to Google Sheets. Python + GitHub Actions
 - [customer-churn-prediction](https://github.com/ihorkhamuliak/customer-churn-prediction): ML on the Telco dataset. KNN vs Decision Tree, ROI analysis
 
-**Stack:** n8n, Claude API, Python, Telethon, Make/Zapier, Google Sheets, Docker
+**Stack:** n8n, Claude API, Python, Telethon, Make/n8n, Google Sheets, Docker
 
 Telegram [@Ihor_0O](https://t.me/Ihor_0O) · [LinkedIn](https://www.linkedin.com/in/ihorkhamuliak) · hamulakigor7@gmail.com · [WebSite](https://khamuliak-automation.uk)
