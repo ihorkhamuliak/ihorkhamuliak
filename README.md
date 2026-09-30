@@ -4,7 +4,7 @@ Automation developer in Poznań, PL. I build and run production pipelines in Pyt
 
 ## Projects
 
- [ARCHITECTURE.md](https://github.com/ihorkhamuliak/tg-autopost/blob/main/ARCHITECTURE.md) covers the 12-channel system and what production taught me
+- [ARCHITECTURE.md](https://github.com/ihorkhamuliak/tg-autopost/blob/main/ARCHITECTURE.md) covers the 12-channel system and what production taught me
 - [meta-ads-to-sheets](https://github.com/ihorkhamuliak/meta-ads-to-sheets): daily Meta Ads spend to a client's Google Sheet. Python + GitHub Actions, idempotent upserts, fails loudly instead of skipping
 - [claude-context-kit](https://github.com/ihorkhamuliak/claude-context-kit): short session brief for Claude Code on a large Obsidian vault, with the measurements behind it
 - [tg-bot-szablon](https://github.com/ihorkhamuliak/tg-bot-szablon): open n8n template, AI Telegram assistant for bookings with memory and reminders
